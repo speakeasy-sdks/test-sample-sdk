@@ -7,7 +7,7 @@
 </div>
 
 <!-- Start SDK Installation -->
-# SDK Installation
+## SDK Installation
 
 ```bash
 go get github.com/speakeasy-sdks/test-sample-sdk
@@ -16,8 +16,6 @@ go get github.com/speakeasy-sdks/test-sample-sdk
 
 ## SDK Example Usage
 <!-- Start SDK Example Usage -->
-
-
 ```go
 package main
 
@@ -45,10 +43,10 @@ func main() {
 <!-- End SDK Example Usage -->
 
 <!-- Start SDK Available Operations -->
-# Available Resources and Operations
+## Available Resources and Operations
 
 
-## [Pets](docs/sdks/pets/README.md)
+### [Pets](docs/sdks/pets/README.md)
 
 * [CreatePets](docs/sdks/pets/README.md#createpets) - Create a pet
 * [ListPets](docs/sdks/pets/README.md#listpets) - List all pets
@@ -56,8 +54,6 @@ func main() {
 <!-- End SDK Available Operations -->
 
 <!-- Start Dev Containers -->
-
-
 
 <!-- End Dev Containers -->
 
