@@ -9,6 +9,7 @@ generation:
     disableComments: false
     omitDescriptionIfSummaryPresent: false
   baseServerURL: ""
+  flattenGlobalSecurity: true
   repoURL: https://github.com/speakeasy-sdks/test-sample-sdk.git
   sdkClassName: Swagger-Petstore
   singleTagPerOp: false
